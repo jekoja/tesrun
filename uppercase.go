@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	name := "aDanYi"
+	name := "chrIs"
 	result := strings.ToUpper(name[:1]) + strings.ToLower(name[1:])
 
 	fmt.Println(result)
